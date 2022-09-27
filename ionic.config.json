@@ -1,0 +1,7 @@
+{
+  "name": "gycsolNew",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
